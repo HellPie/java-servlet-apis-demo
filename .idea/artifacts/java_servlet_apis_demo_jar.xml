@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="java-servlet-apis-demo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_servlet_apis_demo_jar</output-path>
+    <root id="root">
+      <element id="archive" name="java-servlet-apis-demo.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+          <element id="dir-copy" path="$PROJECT_DIR$/META-INF" />
+        </element>
+        <element id="module-output" name="java-servlet-apis-demo" />
+      </element>
+    </root>
+  </artifact>
+</component>
